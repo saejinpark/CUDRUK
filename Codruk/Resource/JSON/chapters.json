@@ -1,0 +1,128 @@
+[
+  {
+    "id": "history",
+    "order": 1,
+    "title": "커피의 기원과 역사",
+    "subtitle": "에티오피아에서 전 세계로",
+    "icon": "clock.arrow.circlepath",
+    "color": "#6B4C2A",
+    "card_count": 9
+  },
+  {
+    "id": "varieties",
+    "order": 2,
+    "title": "커피 품종",
+    "subtitle": "아라비카부터 게이샤까지",
+    "icon": "leaf.fill",
+    "color": "#3A7D44",
+    "card_count": 10
+  },
+  {
+    "id": "origins",
+    "order": 3,
+    "title": "산지별 특징",
+    "subtitle": "테루아가 만드는 맛의 차이",
+    "icon": "globe.asia.australia.fill",
+    "color": "#C45C26",
+    "card_count": 12
+  },
+  {
+    "id": "processing",
+    "order": 4,
+    "title": "가공 방식",
+    "subtitle": "워시드, 내추럴, 허니",
+    "icon": "drop.fill",
+    "color": "#E8A838",
+    "card_count": 7
+  },
+  {
+    "id": "roasting",
+    "order": 5,
+    "title": "로스팅",
+    "subtitle": "생두를 원두로 변환하는 과학",
+    "icon": "flame.fill",
+    "color": "#C0392B",
+    "card_count": 10
+  },
+  {
+    "id": "grinding",
+    "order": 6,
+    "title": "그라인딩",
+    "subtitle": "분쇄도가 맛을 결정한다",
+    "icon": "gearshape.2.fill",
+    "color": "#7F8C8D",
+    "card_count": 7
+  },
+  {
+    "id": "brewing",
+    "order": 7,
+    "title": "추출 방식",
+    "subtitle": "에스프레소부터 콜드브루까지",
+    "icon": "cup.and.saucer.fill",
+    "color": "#2980B9",
+    "card_count": 10
+  },
+  {
+    "id": "drinks",
+    "order": 8,
+    "title": "에스프레소 음료",
+    "subtitle": "라떼, 카푸치노, 플랫화이트",
+    "icon": "mug.fill",
+    "color": "#8E44AD",
+    "card_count": 10
+  },
+  {
+    "id": "cupping",
+    "order": 9,
+    "title": "커핑과 맛 표현",
+    "subtitle": "커피를 언어로 말하는 법",
+    "icon": "nose.fill",
+    "color": "#16A085",
+    "card_count": 10
+  },
+  {
+    "id": "specialty",
+    "order": 10,
+    "title": "스페셜티 커피",
+    "subtitle": "80점 이상의 세계",
+    "icon": "star.fill",
+    "color": "#F39C12",
+    "card_count": 7
+  },
+  {
+    "id": "science",
+    "order": 11,
+    "title": "커피의 과학",
+    "subtitle": "화학, 건강, 카페인",
+    "icon": "atom",
+    "color": "#1ABC9C",
+    "card_count": 10
+  },
+  {
+    "id": "equipment",
+    "order": 12,
+    "title": "커피 도구",
+    "subtitle": "머신부터 저울까지",
+    "icon": "wrench.and.screwdriver.fill",
+    "color": "#34495E",
+    "card_count": 8
+  },
+  {
+    "id": "culture",
+    "order": 13,
+    "title": "세계의 카페 문화",
+    "subtitle": "이탈리아부터 한국까지",
+    "icon": "building.2.fill",
+    "color": "#E74C3C",
+    "card_count": 10
+  },
+  {
+    "id": "korea",
+    "order": 14,
+    "title": "한국 커피 문화",
+    "subtitle": "커피믹스에서 WBC 우승까지",
+    "icon": "flag.fill",
+    "color": "#2C3E50",
+    "card_count": 8
+  }
+]
